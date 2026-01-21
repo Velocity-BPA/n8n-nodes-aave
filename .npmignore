@@ -1,0 +1,35 @@
+# Source files
+src/
+test/
+
+# Config files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+gulpfile.js
+jest.config.js
+
+# Development files
+*.log
+*.map
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Scripts
+scripts/
+
+# Test coverage
+coverage/
+
+# Documentation source
+docs/
